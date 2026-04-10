@@ -3,7 +3,7 @@
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=7B2CBF&height=1&section=header" width="100%">
-  <br>
+  <br><br>
   <strong>Manual QA Engineer</strong>
 </p>
 
