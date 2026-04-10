@@ -18,7 +18,9 @@
 * 🧠  Изучаю Python для автоматизации тестирования
 * 👥  Ищу стажировку или работу на junior позицию
 
-![](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/purple.png)
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=4B0082&height=7&section=header" width="100%">
+</p>
 
 ### Языки и инструменты
 <p align="left">
