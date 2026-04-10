@@ -101,7 +101,7 @@
       </ul>
       <p align="center">
         <a href="https://github.com/AtarixQA/qa-engineer-project-84">
-          <img src="https://img.shields.io/badge/Посмотреть_проект-7B2CBF?style=for-the-badge&logo=github&logoColor=black" />
+          <img src="https://img.shields.io/badge/Посмотреть_проект-7B2CBF?style=for-the-badge&logo=github&logoColor=white" />
         </a>
       </p>
     </td>
