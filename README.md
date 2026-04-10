@@ -81,7 +81,7 @@
       <p align="center"><strong>Проект: Codebattle</strong></p>
       <p>Опенсорс-платформа для соревновательного программирования. Проводил полное функциональное и нефункциональное тестирование.</p>
       <ul>
-        <li>🔧 <b>Стек:</b>Chrome DevTools</li>
+        <li>🔧 <b>Стек:</b> Chrome DevTools </li>
         <li>📝 <b>Документация:</b> <a href="https://github.com/AtarixQA/qa-engineer-project-85/blob/main/test-cases.yml">Тест-кейсы,</a>
                                      <a href="https://github.com/AtarixQA/qa-engineer-project-85/blob/main/issues.yml">issues</a</li>
         <li>🐞 <b>Результат:</b> Обнаружено и задокументировано 4 бага (UI, Localization, Security)</li>
