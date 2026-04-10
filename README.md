@@ -52,6 +52,35 @@
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" alt="Linux" title="Linux" width="36" height="36" /></a>
 </p>
 
+### Мой стек технологий
+
+<table align="center">
+  <thead>
+    <tr>
+      <th>Категория</th>
+      <th>Инструменты и навыки</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center"><strong>🛠 Инструменты</strong></td>
+      <td>Postman, Chrome DevTools, Git, SQL (PostgreSQL), DBeaver</td>
+    </tr>
+    <tr>
+      <td align="center"><strong>📄 Документация</strong></td>
+      <td>Test Cases, Bug Reports, Checklists, YAML, Markdown</td>
+    </tr>
+    <tr>
+      <td align="center"><strong>🔍 Тестирование</strong></td>
+      <td>Functional, UI/UX, Regression, SPA Testing, REST API</td>
+    </tr>
+    <tr>
+      <td align="center"><strong>💻 Soft / Другое</strong></td>
+      <td>Linux (Bash), VS Code, Adobe Photoshop, Premiere Pro</td>
+    </tr>
+  </tbody>
+</table>
+
 ### Моя Статистика
 <p align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AtarixQA&theme=midnight_purple" alt="Profile Details">
