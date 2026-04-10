@@ -4,8 +4,10 @@
 </p>
 
 <p align="center">
- <p align="center">[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/Ballbreak1)</p>
- <p align="center">[![Vkontakte](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=Vk&logoColor=4F7DB3)](https://vk.com/vitaliy_rusov)</p>
+  [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/Ballbreak1)
+</p>
+<p align="center">
+  [![Vkontakte](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=Vk&logoColor=4F7DB3)](https://vk.com/vitaliy_rusov)
 </p>
 
 Я начинающий QA-инженер с бэкграундом в строительной сфере. Ранее работал прорабом, где отвечал за контроль качества и сдачу объектов в срок. Умею читать техническую документацию, находить несоответствия и координировать работу команды. Опыт работы прорабом научил меня главному: любая ошибка в документации или реализации стоит дорого, поэтому внимание к деталям и соблюдение регламентов — мои главные принципы.
