@@ -104,6 +104,7 @@
         <li>🔧 <b>Стек:</b> Chrome DevTools </li>
         <li>📝 <b>Документация:</b> <a href="https://github.com/AtarixQA/qa-engineer-project-84/blob/main/test-cases.yml">Тест-кейсы,</a>                                   
                                      <a href="https://github.com/AtarixQA/qa-engineer-project-84/blob/main/bugreports.yml">Баг-репорты</a</li>
+        <li>🐞 <b>Результат:</b> Обнаружено и задокументировано 12 бага (UI/UX, Localization, Logic)</li>
       </ul>
       <p align="center">
         <a href="https://github.com/AtarixQA/qa-engineer-project-84">
