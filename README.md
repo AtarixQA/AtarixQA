@@ -1,7 +1,6 @@
 <br>
 <h3 align="center">Привет! 👋 Я Виталий Русов</h3>
 
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=7B2CBF&height=2&section=header" width="100%">
   <br><br>
@@ -107,7 +106,6 @@
     </td>
   </tr>
 </table>
-
 ### Моя Статистика
 <p align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AtarixQA&theme=midnight_purple" alt="Profile Details">
