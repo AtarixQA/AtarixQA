@@ -1,4 +1,4 @@
-<h3 align="center">Привет! 👋 Я Виталий Русов</h3>
+<h2 align="center">Привет! 👋 Я Виталий Русов</h2>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=7B2CBF&height=1&section=header" width="100%">
