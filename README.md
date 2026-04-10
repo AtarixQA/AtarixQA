@@ -1,5 +1,4 @@
 <div align="center">
-  <br>
   <span style="font-size: 20px;"><strong>Привет! 👋 Я Виталий Русов</strong></span>
 </div>
 
