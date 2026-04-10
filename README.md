@@ -106,6 +106,7 @@
     </td>
   </tr>
 </table>
+
 ### Моя Статистика
 <p align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AtarixQA&theme=midnight_purple" alt="Profile Details">
