@@ -25,3 +25,5 @@
 
 ### Моя Статистика
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AtarixQA&theme=midnight_purple)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AtarixQA&theme=midnight_purple)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AtarixQA&theme=midnight_purple)
