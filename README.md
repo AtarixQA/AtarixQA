@@ -83,8 +83,8 @@
       <ul>
         <li>🔧 <b>Стек:</b> Chrome DevTools, Postman, SQL</li>
         <li>📝 <b>Документация:</b> <a href="https://github.com/AtarixQA/qa-engineer-project-85/blob/main/test-cases.yml">Тест-кейсы</a>
-                                     <a href="https://github.com/AtarixQA/qa-engineer-project-85/blob/main/issues.yml>issues"</a</li>
-        <li>🐞 <b>Результат:</b> Обнаружено и задокументировано 15+ багов (UI, Localization, Logic)</li>
+                                     <a href="https://github.com/AtarixQA/qa-engineer-project-85/blob/main/issues.yml">issues</a</li>
+        <li>🐞 <b>Результат:</b> Обнаружено и задокументировано 4 бага (UI, Localization, Security)</li>
       </ul>
       <p align="center">
         <a href="https://github.com/AtarixQA/qa-engineer-project-85">
