@@ -1,6 +1,9 @@
 <p align="center">
- <br>
- <span style="font-size: 2em; font-weight: bold;">Привет! 👋 Я Виталий Русов</span>
+  <br>
+  <span style="font-size: 2em; font-weight: bold;">Привет! 👋 Я Виталий Русов</span>
+</p>
+
+<p align="center">
  <img src="https://capsule-render.vercel.app/api?type=rect&color=7B2CBF&height=1&section=header" width="100%">
  <p align="center"><strong>Manual QA Engineer</strong></p>
 </p>
