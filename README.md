@@ -74,8 +74,7 @@
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AtarixQA&theme=midnight_purple" alt="Stats">
 </p>
 
-<h3 align="center">🚀 Мои проекты</h3>
-
+### Мои проекты
 <table align="center">
   <tr>
     <td>
@@ -83,7 +82,8 @@
       <p>Опенсорс-платформа для соревновательного программирования. Проводил полное функциональное и нефункциональное тестирование.</p>
       <ul>
         <li>🔧 <b>Стек:</b> Chrome DevTools, Postman, SQL</li>
-        <li>📝 <b>Документация:</b> <a href="ССЫЛКА_НА_ПАПКУ_С_ТЕСТКЕЙСАМИ">Тест-кейсы и баг-репорты</a></li>
+        <li>📝 <b>Документация:</b> <a href="https://github.com/AtarixQA/qa-engineer-project-85/blob/main/test-cases.yml">Тест-кейсы</a>
+                                     <a https://github.com/AtarixQA/qa-engineer-project-85/blob/main/issues.yml>issues</a</li>
         <li>🐞 <b>Результат:</b> Обнаружено и задокументировано 15+ багов (UI, Localization, Logic)</li>
       </ul>
       <p align="center">
