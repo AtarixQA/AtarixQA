@@ -7,12 +7,6 @@
 </p>
 
 <p align="center">
- <span style="font-size: 2em; font-weight: bold;">Привет! 👋 Я Виталий Русов</span>
- <img src="https://capsule-render.vercel.app/api?type=rect&color=7B2CBF&height=1&section=header" width="100%">
- <p align="center"><strong>Manual QA Engineer</strong></p>
-</p>
-
-<p align="center">
   <a href="https://t.me/Ballbreak1" target="_blank">
     <img src="https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9" alt="Telegram"></a>
   <a href="https://vk.com/vitaliy_rusov" target="_blank">
