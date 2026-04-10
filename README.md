@@ -20,16 +20,3 @@ Manual QA Engineer
 ### Социальные сети
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/Ballbreak1)
 [![Vkontakte](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=Vk&logoColor=4F7DB3)](https://vk.com/vitaliy_rusov)
-
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?AtarixQA=anuraghazra&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?AtarixQA=anuraghazra&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
-</picture>
-![Atarix's GitHub stats](https://github-readme-stats.vercel.app/api?username=AtarixQA&show_icons=true&theme=radical&rank_icon=github)
