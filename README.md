@@ -1,10 +1,7 @@
 <p align="center">
  <h1 align="center">Привет!👋 Я Виталий Русов</h1>
+ <img src="https://capsule-render.vercel.app/api?type=rect&color=7B2CBF&height=1&section=header" width="100%">
  <p align="center"><strong>Manual QA Engineer</strong></p>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=7B2CBF&height=1&section=header" width="100%">
 </p>
 
 <p align="center">
