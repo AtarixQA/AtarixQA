@@ -1,5 +1,5 @@
 <p align="center">
- <h1 align="center">Привет!👋 Я Виталий Русов</h1>
+ <h2 align="center">Привет!👋 Я Виталий Русов</h2>
  <p align="center"><strong>Manual QA Engineer</strong></p>
 </p>
 
