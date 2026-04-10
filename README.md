@@ -14,9 +14,11 @@
     <img src="https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=vk&logoColor=4680C2" alt="Vkontakte"></a>
 </p>
 
-<p style="text-align: justify; max-width: 900px;">
+<div align="center">
+  <p style="text-align: justify; max-width: 900px;">
     Я начинающий QA-инженер с бэкграундом в строительной сфере, где отвечал за контроль качества и сдачу объектов в срок. Умею читать техническую документацию, находить несоответствия и координировать работу команды. Опыт работы прорабом научил меня главному: любая ошибка в документации или реализации стоит дорого, поэтому внимание к деталям и соблюдение регламентов — мои главные принципы.
-</p>
+  </p>
+</div>
 
 * 🌍  Живу в Москве
 * ✉️  Связь со мной [gw.vitalik@yandex.ru](mailto:gw.vitalik@yandex.ru)
