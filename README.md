@@ -1,6 +1,6 @@
 <p align="center">
  <h1 align="center">Привет!👋 Я Виталий Русов</h1>
- <p>Manual QA Engineer</p>
+ <p align="center">Manual QA Engineer</p>
 </p>
 
 ### Manual QA Engineer
