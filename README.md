@@ -9,9 +9,9 @@
 
 <p align="center">
   <a href="https://t.me/Ballbreak1" target="_blank">
-    <img src="https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9" alt="Telegram"></a>
+    <img src="https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=7B2CBF" alt="Telegram"></a>
   <a href="https://vk.com/vitaliy_rusov" target="_blank">
-    <img src="https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=vk&logoColor=4680C2" alt="Vkontakte"></a>
+    <img src="https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=vk&logoColor=7B2CBF" alt="Vkontakte"></a>
 </p>
 
 ### Обо мне
