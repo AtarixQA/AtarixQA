@@ -15,12 +15,9 @@
 </p>
 
 ### Обо мне
-<br>
 <p align="justify">
  Я начинающий QA-инженер с бэкграундом в строительной сфере, где отвечал за контроль качества и сдачу объектов в срок. Умею читать техническую документацию, находить несоответствия и координировать работу команды. Опыт      работы прорабом научил меня главному: любая ошибка в документации или реализации стоит дорого, поэтому внимание к деталям и соблюдение регламентов — мои главные принципы.
 </p>
-
-<br>
 
 * 🌍  Живу в Москве
 * ✉️  Связь со мной [gw.vitalik@yandex.ru](mailto:gw.vitalik@yandex.ru)
@@ -33,7 +30,6 @@
 </p>
 
 ### Языки и инструменты
-<br>
 <p align="left">
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" title="Git" width="36" height="36" /></a>
@@ -56,7 +52,6 @@
 </p>
 
 ### Моя Статистика
-<br>
 <p align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AtarixQA&theme=midnight_purple" alt="Profile Details">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AtarixQA&theme=midnight_purple" alt="Most Commits Language">
