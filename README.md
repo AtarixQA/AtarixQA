@@ -1,4 +1,5 @@
 <p align="center">
+ <img width="180" alt="Gemini_Generated_Image_4y95py4y95py4y95" src="https://github.com/user-attachments/assets/323cb9f2-e0a6-4e68-acc4-fe7f99ca9ed4" />
  <h1 align="center">Привет!👋 Я Виталий Русов</h1>
  <h2 align="center">Manual QA Engineer</h2>
 </p>
