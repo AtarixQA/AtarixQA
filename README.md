@@ -1,7 +1,6 @@
 # <p align="center">
 # Привет! Я Виталий Русов
-# </p>
-
+ </p>
 Manual QA Engineer
 ------------------
 
