@@ -6,6 +6,8 @@
 <p align="center">
   <a href="https://t.me/Ballbreak1" target="_blank">
     <img src="https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9" alt="Telegram">
+   <a href="https://t.me/Ballbreak1" target="_blank">
+    <img src="https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=Vk&logoColor=4F7DB3" alt="Vkontakte">
   </a>
 </p>
 <p align="center">
