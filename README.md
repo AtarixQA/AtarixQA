@@ -42,7 +42,7 @@
   <tbody>
     <tr>
       <td align="center"><strong>🛠 Инструменты</strong></td>
-      <td>Postman (API/HTTP), Chrome DevTools, Git, SQL (PostgreSQL), HTML5, CSS3, Terminal (Bash)</td>
+      <td>Postman (API/HTTP), Chrome DevTools, Git, SQL (PostgreSQL), HTML5, CSS3, Terminal (Bash), VS Code</td>
     </tr>
     <tr>
       <td align="center"><strong>📄 Документация</strong></td>
