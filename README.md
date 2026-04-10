@@ -32,3 +32,4 @@ Manual QA Engineer
   />
   <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
 </picture>
+![Atarix's GitHub stats](https://github-readme-stats.vercel.app/api?username=AtarixQA&show_icons=true&theme=radical&rank_icon=github)
