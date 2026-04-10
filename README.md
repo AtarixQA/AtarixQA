@@ -29,3 +29,4 @@
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AtarixQA&theme=midnight_purple" alt="Most Commits Language">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AtarixQA&theme=midnight_purple" alt="Stats">
 </p>
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AtarixQA&theme=midnight_purple) 
