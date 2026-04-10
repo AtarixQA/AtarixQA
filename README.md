@@ -1,5 +1,5 @@
-<p align="center">
-#Привет! Я Виталий Русов
+# <p align="center">
+Привет! Я Виталий Русов
 </p>
 
 Manual QA Engineer
