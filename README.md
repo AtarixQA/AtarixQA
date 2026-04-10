@@ -9,8 +9,8 @@ Manual QA Engineer
 * 🌍  Живу в Москве
 * ✉️  Связь со мной [gw.vitalik@yandex.ru](mailto:gw.vitalik@yandex.ru)
 * 🚀  Сейчас работаю над [https://github.com/AtarixQA/qa-engineer-project-85](http://github.com/AtarixQA/qa-engineer-project-85)
-* 🧠  Сейчас изучаю Python для автоматизации тестирования
-* 👥  Сейчас ищу стажировку или работу на junior позицию
+* 🧠  Изучаю Python для автоматизации тестирования
+* 👥  Ищу стажировку или работу на junior позицию
 
 ### Языки и инструменты:
 <p align="left">
