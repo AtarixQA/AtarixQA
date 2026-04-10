@@ -1,5 +1,5 @@
 <p align="center">
- <h1>Привет!👋 Я Виталий Русов</h1>
+ <h1 align="center">Привет!👋 Я Виталий Русов</h1>
 </p>
 
 ### Manual QA Engineer
