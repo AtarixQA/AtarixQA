@@ -1,5 +1,5 @@
 <div align="center">
-  <span style="font-size: 10px;"><strong>Привет! 👋 Я Виталий Русов</strong></span>
+  <span style="font-size: 50px;"><strong>Привет! 👋 Я Виталий Русов</strong></span>
 </div>
 
 <p align="center">
