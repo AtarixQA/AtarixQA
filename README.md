@@ -23,4 +23,5 @@ Manual QA Engineer
 
 <b>My GitHub Stats</b>
 
-![Atarix's GitHub stats](https://github-readme-stats.vercel.app/api?username=AtarixQA&show_icons=true&theme=radical&rank_icon=github)
+(https://github-readme-stats.vercel.app/api?username=AtarixQA&show_icons=true&theme=radical&rank_icon=github)
+<a href="http://www.github.com/AtarixQA"><img src="https://github-readme-stats.vercel.app/api?username=AtarixQA&show_icons=true&hide=&count_private=true&title_color=a855f7&text_color=84cc16&icon_color=ec4899&bg_color=ffffff&hide_border=true&show_icons=true" alt="AtarixQA's GitHub stats" /></a>
