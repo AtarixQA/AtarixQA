@@ -19,7 +19,7 @@
 * 👥  Ищу стажировку или работу на junior позицию
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=4B0082&height=7&section=header" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=4B0082&height=7&section=header" width="100%" height="70%">
 </p>
 
 ### Языки и инструменты
