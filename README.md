@@ -5,8 +5,8 @@
 
 <p align="center">
   <br><br>
-  <strong>Manual QA Engineer</strong>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=7B2CBF&height=2&section=header" width="100%">
+  <strong>Manual QA Engineer</strong>
 </p>
 
 <p align="center">
