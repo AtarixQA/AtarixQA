@@ -58,25 +58,33 @@
   <thead>
     <tr>
       <th>Категория</th>
-      <th>Инструменты и навыки</th>
+      <th>Инструменты и ключевые навыки</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td align="center"><strong>🛠 Инструменты</strong></td>
-      <td>Postman, Chrome DevTools, Git, SQL (PostgreSQL), DBeaver</td>
+      <td>Postman (API/HTTP), Chrome DevTools, Git, SQL (PostgreSQL), HTML5, CSS3, Terminal (Bash)</td>
     </tr>
     <tr>
       <td align="center"><strong>📄 Документация</strong></td>
-      <td>Test Cases, Bug Reports, Checklists, YAML, Markdown</td>
+      <td>Test Cases, Bug Reports, Checklists, YAML, Markdown, Баг-трекинг системы (Jira/YouTrack)</td>
     </tr>
     <tr>
       <td align="center"><strong>🔍 Тестирование</strong></td>
-      <td>Functional, UI/UX, Regression, SPA Testing, REST API</td>
+      <td>Manual Testing, Web & Prod environments, Regression, SPA, Non-functional, <b>SDLC & STLC</b></td>
     </tr>
     <tr>
-      <td align="center"><strong>💻 Soft / Другое</strong></td>
-      <td>Linux (Bash), VS Code, Adobe Photoshop, Premiere Pro</td>
+      <td align="center"><strong>🎯 Тест-дизайн</strong></td>
+      <td>Equivalence Partitioning, Boundary Value Analysis, Decision Table, Pairwise, Test Planning</td>
+    </tr>
+    <tr>
+      <td align="center"><strong>🤖 Автоматизация</strong></td>
+      <td>Понимание видов автотестов (Unit, API, UI) и принципов их применения на практике</td>
+    </tr>
+    <tr>
+      <td align="center"><strong>🤝 Soft / Команда</strong></td>
+      <td>Коммуникация в команде, взаимодействие с заказчиком и Dev, контроль качества (QA/QC)</td>
     </tr>
   </tbody>
 </table>
