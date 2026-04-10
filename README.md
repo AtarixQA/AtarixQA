@@ -1,6 +1,6 @@
 <p align="center">
   <br>
-  <span style="font-size: 2em; font-weight: bold;">Привет! 👋 Я Виталий Русов</span>
+  <span style="font-size: 10em; font-weight: bold;">Привет! 👋 Я Виталий Русов</span>
 </p>
 
 <p align="center">
