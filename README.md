@@ -4,7 +4,9 @@
 </p>
 
 <p align="center">
-  [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/Ballbreak1)
+  <a href="https://t.me/Ballbreak1" target="_blank">
+    <img src="https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9" alt="Telegram">
+  </a>
 </p>
 <p align="center">
   [![Vkontakte](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=Vk&logoColor=4F7DB3)](https://vk.com/vitaliy_rusov)
