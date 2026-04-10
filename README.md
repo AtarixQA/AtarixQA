@@ -102,7 +102,7 @@
       <p>Интернет-магазин на базе SPA. Проводил полное функциональное и нефункциональное тестирование.</p>
       <ul>
         <li>🔧 <b>Стек:</b> Chrome DevTools </li>
-        <li>📝 <b>Документация:</b> <a href="https://github.com/AtarixQA/qa-engineer-project-84/blob/main/test-cases.yml">Тест-кейсы,</a></li>                                   
+        <li>📝 <b>Документация:</b> <a href="https://github.com/AtarixQA/qa-engineer-project-84/blob/main/test-cases.yml">Тест-кейсы,</a>                                   
                                      <a href="https://github.com/AtarixQA/qa-engineer-project-84/blob/main/bugreports.yml">Баг-репорты</a</li>
       </ul>
       <p align="center">
