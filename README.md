@@ -1,4 +1,4 @@
-<img width="1280" height="340" alt="Gemini_Generated_Image_4y95py4y95py4y95" src="https://github.com/user-attachments/assets/ab3fe133-c518-455f-b807-61b533c9fa2e" />
+<img width="1280" height="420" alt="Gemini_Generated_Image_4y95py4y95py4y95" src="https://github.com/user-attachments/assets/ab3fe133-c518-455f-b807-61b533c9fa2e" />
 
 Привет !👋 Я Виталий Русов
 ======================================================================================================================================
