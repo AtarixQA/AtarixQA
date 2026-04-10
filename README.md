@@ -23,7 +23,7 @@
 
 * 🌍  Живу в Москве
 * ✉️  Связь со мной gw.vitalik@yandex.ru
-* 🚀  Сейчас работаю над <a href="https://github.com/AtarixQA/qa-engineer-project-85">проектом</a> 
+* 🚀  Сейчас работаю над этим <a href="https://github.com/AtarixQA/qa-engineer-project-85">проектом</a> 
 * 🧠  Изучаю Python для автоматизации тестирования
 * 👥  Ищу стажировку или работу на junior позицию
 
