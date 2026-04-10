@@ -31,7 +31,6 @@
 </p>
 
 ### Мой стек технологий
-
 <table align="center">
   <thead>
     <tr>
