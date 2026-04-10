@@ -73,3 +73,24 @@
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AtarixQA&theme=midnight_purple" alt="Most Commits Language">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AtarixQA&theme=midnight_purple" alt="Stats">
 </p>
+
+<h3 align="center">🚀 Мои проекты</h3>
+
+<table align="center">
+  <tr>
+    <td>
+      <p align="center"><strong>Проект: Codebattle</strong></p>
+      <p>Опенсорс-платформа для соревновательного программирования. Проводил полное функциональное и нефункциональное тестирование.</p>
+      <ul>
+        <li>🔧 <b>Стек:</b> Chrome DevTools, Postman, SQL</li>
+        <li>📝 <b>Документация:</b> <a href="ССЫЛКА_НА_ПАПКУ_С_ТЕСТКЕЙСАМИ">Тест-кейсы и баг-репорты</a></li>
+        <li>🐞 <b>Результат:</b> Обнаружено и задокументировано 15+ багов (UI, Localization, Logic)</li>
+      </ul>
+      <p align="center">
+        <a href="https://github.com/AtarixQA/qa-engineer-project-85">
+          <img src="https://img.shields.io/badge/Посмотреть_проект-7B2CBF?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
