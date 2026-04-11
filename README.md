@@ -72,25 +72,11 @@
 </table>
 
 ### $\color{#A855F7}{\textsf{Мои проекты}}$
-<table align="center">
-  <tr>
-    <td>
-      <p align="center"><strong>Проект: Codebattle</strong></p>
-      <p>Опенсорс-платформа для соревновательного программирования. Проводил полное функциональное и нефункциональное тестирование, баг репортинг, регрессионное тестирование.</p>
-      <ul>
-        <li>🔧 <b>Стек:</b> Chrome DevTools, Тест-дизайн </li>
-        <li>📝 <b>Документация:</b> <a href="https://github.com/AtarixQA/qa-engineer-project-85/blob/main/test-cases.yml">Тест-кейсы,</a>
-                                     <a href="https://github.com/AtarixQA/qa-engineer-project-85/blob/main/issues.yml">issues</a</li>
-        <li>🐞 <b>Результат:</b> Обнаружено и задокументировано 4 бага (UI, Localization, Security)</li>
-      </ul>
-      <p align="center">
-        <a href="https://github.com/AtarixQA/qa-engineer-project-85">
-          <img src="https://img.shields.io/badge/Посмотреть_проект-7B2CBF?style=for-the-badge&logo=github&logoColor=white" />
-        </a>
-      </p>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <a href="https://github.com/AtarixQA/qa-engineer-project-85">
+    <img src="assets/project-codebattle.svg" alt="Проект Codebattle" width="100%">
+  </a>
+</p>
 
 <table align="center">
   <tr>
