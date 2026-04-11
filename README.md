@@ -1,6 +1,6 @@
 <br>
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A855F7&center=true&vCenter=true&width=940&lines=Привет+%F0%9F%91%8B%2C+Я+Виталий+Русов;Manual+QA+Engineer;Ищу+работу+или+стажировку&+Content+Creator;Building+the+Future+with+Code+%26+AI" alt="Typing SVG" /> 
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=1000&color=A855F7&center=true&vCenter=true&width=940&lines=Привет+%F0%9F%91%8B%2C+Я+Виталий+Русов;Manual+QA+Engineer;Ищу+работу+или+стажировку&+Content+Creator;Building+the+Future+with+Code+%26+AI" alt="Typing SVG" /> 
 </div>
 
 <p align="center">
@@ -14,7 +14,8 @@
     <img src="https://img.shields.io/badge/-Vkontakte-7B2CBF?style=for-the-badge&logo=vk&logoColor=white" alt="Vkontakte"></a>
 </p>
 
-### Обо мне
+### $\color{#A855F7}{\textsf{Обо мне}}$
+
 <p align="justify">
  Я начинающий QA-инженер с бэкграундом в строительной сфере, где отвечал за контроль качества и сдачу объектов в срок. Умею читать техническую документацию, находить несоответствия и координировать работу команды. Этот
  опыт работы научил меня главному: любая ошибка в документации или реализации стоит дорого, поэтому внимание к деталям и соблюдение регламентов — мои главные принципы.
@@ -30,7 +31,7 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=4B0082&height=7&section=header" width="100%">
 </p>
 
-### Мой стек технологий
+### $\color{#A855F7}{\textsf{Мой стек технологий}}$
 <table align="center">
   <thead>
     <tr>
@@ -66,7 +67,7 @@
   </tbody>
 </table>
 
-### Мои проекты
+### $\color{#A855F7}{\textsf{Мои проекты}}$
 <table align="center">
   <tr>
     <td>
@@ -107,7 +108,7 @@
   </tr>
 </table>
 
-### Моя Статистика
+### $\color{#A855F7}{\textsf{Моя статистика}}$
 <p align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AtarixQA&theme=midnight_purple" alt="Profile Details">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AtarixQA&theme=midnight_purple" alt="Most Commits Language">
