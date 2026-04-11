@@ -36,40 +36,9 @@
 </p>
 
 ### $\color{#A855F7}{\textsf{Мой стек технологий}}$
-<table align="center">
-  <thead>
-    <tr>
-      <th>Категория</th>
-      <th>Инструменты и ключевые навыки</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td align="center"><strong>🛠 Инструменты</strong></td>
-      <td>Postman (API/HTTP), Chrome DevTools, Git, SQL (PostgreSQL), HTML5, CSS3, Terminal (Bash), VS Code</td>
-    </tr>
-    <tr>
-      <td align="center"><strong>📄 Документация</strong></td>
-      <td>Test Cases, Bug Reports, Checklists, YAML, Markdown, Баг-трекинг системы (Jira/YouTrack)</td>
-    </tr>
-    <tr>
-      <td align="center"><strong>🔍 Тестирование</strong></td>
-      <td>Manual Testing, Web & Prod environments, Regression, SPA, Non-functional, <b>SDLC & STLC</b></td>
-    </tr>
-    <tr>
-      <td align="center"><strong>🎯 Тест-дизайн</strong></td>
-      <td>Equivalence Partitioning, Boundary Value Analysis, Decision Table, Pairwise, Test Planning</td>
-    </tr>
-    <tr>
-      <td align="center"><strong>🤖 Автоматизация</strong></td>
-      <td>Понимание видов автотестов (Unit, API, UI) и принципов их применения на практике</td>
-    </tr>
-    <tr>
-      <td align="center"><strong>🤝 Soft / Команда</strong></td>
-      <td>Коммуникация в команде, взаимодействие с заказчиком, внимание к деталям, адаптивность</td>
-    </tr>
-  </tbody>
-</table>
+<p align="center">
+  <img src="assets/My-stack.svg" alt="Мой стек технологий" width="100%">
+</p>
 
 ### $\color{#A855F7}{\textsf{Мои проекты}}$
 <p align="center">
@@ -78,25 +47,10 @@
   </a>
 </p>
 
-<table align="center">
-  <tr>
-    <td>
-      <p align="center"><strong>Проект: Hexlet Store</strong></p>
-      <p>Интернет-магазин на базе SPA. Проводил полное функциональное и нефункциональное тестирование, баг репортинг, регрессионное тестирование.</p>
-      <ul>
-        <li>🔧 <b>Стек:</b> Chrome DevTools, Тест-дизайн </li>
-        <li>📝 <b>Документация:</b> <a href="https://github.com/AtarixQA/qa-engineer-project-84/blob/main/test-cases.yml">Тест-кейсы,</a>                                   
-                                     <a href="https://github.com/AtarixQA/qa-engineer-project-84/blob/main/bugreports.yml">Баг-репорты</a</li>
-        <li>🐞 <b>Результат:</b> Обнаружено и задокументировано 12 бага (UI/UX, Localization, Logic)</li>
-      </ul>
-      <p align="center">
-        <a href="https://github.com/AtarixQA/qa-engineer-project-84">
-          <img src="https://img.shields.io/badge/Посмотреть_проект-7B2CBF?style=for-the-badge&logo=github&logoColor=white" />
-        </a>
-      </p>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <a href="https://github.com/AtarixQA/qa-engineer-project-XY"> <img src="assets/project-hexletstore.svg" alt="Проект Hexlet Store" width="100%">
+  </a>
+</p>
 
 ### $\color{#A855F7}{\textsf{Моя статистика}}$
 <p align="center">
