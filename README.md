@@ -1,10 +1,10 @@
 <br>
-<h3 align="center">Привет! 👋 Я Виталий Русов</h3>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A855F7&center=true&vCenter=true&width=940&lines=Привет+%F0%9F%91%8B%2C+Я+Виталий+Русов;Manual+QA+Engineer;Ищу+работу+или+стажировку&+Content+Creator;Building+the+Future+with+Code+%26+AI" alt="Typing SVG" /> 
+</div>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=7B2CBF&height=2&section=header" width="100%">
-  <br><br>
-  <strong>Manual QA Engineer</strong>
 </p>
 
 <p align="center">
