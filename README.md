@@ -48,7 +48,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/AtarixQA/qa-engineer-project-XY"> <img src="assets/project-hexletstore.svg" alt="Проект Hexlet Store" width="100%">
+  <a href="https://github.com/AtarixQA/qa-engineer-project-84"> <img src="assets/project-hexletstore.svg" alt="Проект Hexlet Store" width="100%">
   </a>
 </p>
 
