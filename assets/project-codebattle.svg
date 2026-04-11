@@ -13,7 +13,7 @@
   <text x="30" y="97" class="text">нефункциональное тестирование, баг репортинг, регрессионное тестирование.</text>
 
   <text x="45" y="140" class="text">🔧 <tspan class="bold">Стек:</tspan> Chrome DevTools, Тест-дизайн</text>
-  <text x="45" y="170" class="text">📝 <tspan class="bold">Документация:</tspan> <tspan>requirements</tspan>, <tspan>Тест-кейсы</tspan>, <tspan>testing-report</tspan>, <tspan>issues</tspan>, <tspan>reopened_issues</tspan></text>
+  <text x="45" y="170" class="text">📝 <tspan class="bold">Документация:</tspan> <tspan>requirements</tspan>, <tspan>test-cases</tspan>, <tspan>testing-report</tspan>, <tspan>issues</tspan>, <tspan>reopened_issues</tspan></text>
   <text x="45" y="200" class="text">🐞 <tspan class="bold">Результат:</tspan> Обнаружено и задокументировано 4 бага (UI, Localization, Security)</text>
 
   <g transform="translate(325, 225)">
