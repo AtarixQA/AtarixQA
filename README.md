@@ -1,3 +1,7 @@
+<div align="center">
+  <img width="110" height="97" alt="Gemini_Generated_Image_3i39e93i39e93i39 (2)-Photoroom" src="https://github.com/user-attachments/assets/2642759e-d033-44e1-9509-8c487ebf1aab" />
+</div>
+
 <br>
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=1000&color=A855F7&center=true&vCenter=true&width=940&lines=Привет+%F0%9F%91%8B%2C+Я+Виталий+Русов;Manual+QA+Engineer;Ищу+работу+или+стажировку&+Content+Creator;Building+the+Future+with+Code+%26+AI" alt="Typing SVG" /> 
