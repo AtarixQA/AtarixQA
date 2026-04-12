@@ -18,7 +18,9 @@
     <img src="https://img.shields.io/badge/-Vkontakte-7B2CBF?style=for-the-badge&logo=vk&logoColor=white" alt="Vkontakte"></a>
 </p>
 
-### $\color{#A855F7}{\textsf{Обо мне}}$
+<details>
+<summary>$\color{#A855F7}{\Large\textsf{Обо мне}}$</summary>
+<br>
 
 <p align="justify">
  Я начинающий QA-инженер с бэкграундом в строительной сфере, где отвечал за контроль качества и сдачу объектов в срок. Умею читать техническую документацию, находить несоответствия и координировать работу команды. Этот
@@ -35,26 +37,16 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=4B0082&height=7&section=header" width="100%">
 </p>
 
-### $\color{#A855F7}{\textsf{Мой стек технологий}}$
+$\color{#A855F7}{\Large\textsf{Мой стек технологий}}$
 <p align="center">
   <img src="assets/My-stack.svg" alt="Мой стек технологий" width="100%">
 </p>
 
-### $\color{#A855F7}{\textsf{Мои проекты}}$
-<p align="center">
-  <a href="https://github.com/AtarixQA/qa-engineer-project-85">
-    <img src="assets/project-codebattle.svg" alt="Проект Codebattle" width="100%">
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/AtarixQA/qa-engineer-project-84"> <img src="assets/project-hexletstore.svg" alt="Проект Hexlet Store" width="100%">
-  </a>
-</p>
-
-### $\color{#A855F7}{\textsf{Моя статистика}}$
+$\color{#A855F7}{\Large\textsf{Моя статистика}}$
 <p align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AtarixQA&theme=midnight_purple" alt="Profile Details">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AtarixQA&theme=midnight_purple" alt="Most Commits Language">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AtarixQA&theme=midnight_purple" alt="Stats">
 </p>
+
+</details>
