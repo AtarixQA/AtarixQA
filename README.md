@@ -19,8 +19,10 @@
 </p>
 
 <details>
-<summary>$\color{#A855F7}{\large\textsf{Обо мне}}$</summary>
+<summary>$\color{#A855F7}{\large\textsf{Обо мне}}$</summary> 
 <br>
+  
+![Views](https://komarev.com/ghpvc/?username=AtarixQA&color=7B2CBF&style=flat-square&label=PROFILE+VIEWS)
 
 <p align="justify">
  Я начинающий QA-инженер с бэкграундом в строительной сфере, где отвечал за контроль качества и сдачу объектов в срок. Умею читать техническую документацию, находить несоответствия и координировать работу команды. Этот
@@ -29,18 +31,52 @@
 
 * 🌍  Живу в Москве
 * ✉️  Связь со мной gw.vitalik@yandex.ru
-* 🚀  Сейчас работаю над этим <a href="https://github.com/AtarixQA/qa-engineer-project-85">проектом</a> 
-* 🧠  Изучаю Python для автоматизации тестирования
-* 👥  Ищу стажировку или работу на junior позицию
+* 📄 Мое <a href="https://atarixqa.github.io/">резюме</a> 
+
+
+$\color{#A855F7}{\large\textsf{Сейчас изучаю}}$
+
+- **Python для автоматизации:** [█░░░░░░░░░] 10%
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=4B0082&height=7&section=header" width="100%">
 </p>
 
 $\color{#A855F7}{\large\textsf{Мой стек технологий}}$
-<p align="center">
-  <img src="assets/My-stack.svg" alt="Мой стек технологий" width="100%">
-</p>
+<table align="center">
+  <thead>
+    <tr>
+      <th>Категория</th>
+      <th>Инструменты и ключевые навыки</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="left"><strong>🛠 Инструменты</strong></td>
+      <td>Postman (API/HTTP), Chrome DevTools, Git, SQL (PostgreSQL), HTML5, CSS3, Terminal (Bash), VS Code</td>
+    </tr>
+    <tr>
+      <td align="left"><strong>📄 Документация</strong></td>
+      <td>Test Cases, Bug Reports, Checklists, YAML, Markdown, Баг-трекинг системы (Jira/YouTrack)</td>
+    </tr>
+    <tr>
+      <td align="left"><strong>🔍 Тестирование</strong></td>
+      <td>Manual Testing, Web & Prod environments, Regression, SPA, Non-functional, <b>SDLC & STLC</b></td>
+    </tr>
+    <tr>
+      <td align="left"><strong>🎯 Тест-дизайн</strong></td>
+      <td>Equivalence Partitioning, Boundary Value Analysis, Decision Table, Pairwise, Test Planning</td>
+    </tr>
+    <tr>
+      <td align="left"><strong>🤖 Автоматизация</strong></td>
+      <td>Понимание видов автотестов (Unit, API, UI) и принципов их применения на практике</td>
+    </tr>
+    <tr>
+      <td align="left"><strong>🤝 Soft / Команда</strong></td>
+      <td>Коммуникация в команде, взаимодействие с заказчиком, внимание к деталям, адаптивность</td>
+    </tr>
+  </tbody>
+</table>
 
 $\color{#A855F7}{\large\textsf{Моя статистика}}$
 <p align="center">
@@ -48,5 +84,4 @@ $\color{#A855F7}{\large\textsf{Моя статистика}}$
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AtarixQA&theme=midnight_purple" alt="Most Commits Language">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AtarixQA&theme=midnight_purple" alt="Stats">
 </p>
-
 </details>
