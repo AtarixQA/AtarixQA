@@ -19,7 +19,7 @@
 </p>
 
 <details>
-<summary>$\color{#A855F7}{\Large\textsf{Обо мне}}$</summary>
+<summary>$\color{#A855F7}{\large\textsf{Обо мне}}$</summary>
 <br>
 
 <p align="justify">
@@ -37,12 +37,12 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=4B0082&height=7&section=header" width="100%">
 </p>
 
-$\color{#A855F7}{\Large\textsf{Мой стек технологий}}$
+$\color{#A855F7}{\large\textsf{Мой стек технологий}}$
 <p align="center">
   <img src="assets/My-stack.svg" alt="Мой стек технологий" width="100%">
 </p>
 
-$\color{#A855F7}{\Large\textsf{Моя статистика}}$
+$\color{#A855F7}{\large\textsf{Моя статистика}}$
 <p align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AtarixQA&theme=midnight_purple" alt="Profile Details">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AtarixQA&theme=midnight_purple" alt="Most Commits Language">
