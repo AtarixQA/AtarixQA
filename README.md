@@ -29,9 +29,10 @@
  опыт работы научил меня главному: любая ошибка в документации или реализации стоит дорого, поэтому внимание к деталям и соблюдение регламентов — мои главные принципы.
 </p>
 
-* 🌍  Живу в Москве
-* ✉️  Связь со мной gw.vitalik@yandex.ru
-* 🧠  Изучаю Python для автоматизации тестирования
+* 🌍 Живу в Москве
+* ✉️ Связь со мной gw.vitalik@yandex.ru
+* 🧠 Изучаю Python для автоматизации тестирования
+* 📚 Артефакты: <a href="https://github.com/AtarixQA/qa-engineer-project-85/blob/main/test-cases.yml">test cases,</a> <a href="https://github.com/AtarixQA/qa-engineer-project-85/blob/main/requirements.yml"> requirements,</a> <a href="https://github.com/AtarixQA/qa-engineer-project-84/blob/main/bugreports.yml"> bug reports,</a> <a href="https://github.com/hexlet-codebattle/codebattle/issues/2296"> issues</a>
 * 📄 Мое <a href="https://atarixqa.github.io/">резюме</a> 
 
 <p align="center">
