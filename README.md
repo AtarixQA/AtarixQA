@@ -33,7 +33,6 @@
 * ✉️  Связь со мной gw.vitalik@yandex.ru
 * 📄 Мое <a href="https://atarixqa.github.io/">резюме</a> 
 
-
 $\color{#A855F7}{\large\textsf{Сейчас изучаю}}$
 
 - **Python для автоматизации:** [█░░░░░░░░░] 10%
