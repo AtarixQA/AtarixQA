@@ -31,11 +31,8 @@
 
 * 🌍  Живу в Москве
 * ✉️  Связь со мной gw.vitalik@yandex.ru
+* 🧠  Изучаю Python для автоматизации тестирования
 * 📄 Мое <a href="https://atarixqa.github.io/">резюме</a> 
-
-$\color{#A855F7}{\large\textsf{Сейчас изучаю}}$
-
-- **Python для автоматизации:** [█░░░░░░░░░] 10%
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=4B0082&height=7&section=header" width="100%">
