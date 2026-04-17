@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="110" height="97" alt="Gemini_Generated_Image_3i39e93i39e93i39 (2)-Photoroom" src="https://github.com/user-attachments/assets/2642759e-d033-44e1-9509-8c487ebf1aab" />
+  <img width="110" height="97" alt="Gemini_Generated_Image_3i39e93i39e93i39 (2)-Photoroom" src="https://github.com/AtarixQA/AtarixQA/blob/main/At.png" />
 </div>
 
 <br>
